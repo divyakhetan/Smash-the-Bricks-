@@ -1,2 +1,2 @@
 # Smash-the-Bricks-
-A 2d game 1 player game using pygame 
+A 2d 1 player game using pygame 
